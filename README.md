@@ -22,4 +22,7 @@ See demo folder
 ![](./demo/resize_reset.gif)
 
 
+# Note
+
+**Source Code** is available upon request
 
